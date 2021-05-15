@@ -3,6 +3,7 @@ package com.example.t5_a3_calculadora;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.text.InputType;
 import android.view.View;
 import android.widget.EditText;
 
@@ -18,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         caja = findViewById(R.id.caja);
+        caja.setFocusable(true);
+        caja.setFocusableInTouchMode(true);
+        caja.setInputType(InputType.TYPE_NULL);
     }
 
     public void btn0 (View v){
