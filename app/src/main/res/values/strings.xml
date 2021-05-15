@@ -3,19 +3,19 @@
 
     <string name="txt_caja">0</string>
 
-    <string name="txt_btn_residuo">Residuo</string>
-    <string name="txt_btn_raiz">Raiz</string>
-    <string name="txt_btn_potencia">Potencia</string>
-    <string name="txt_btn_ln">1/x</string>
+    <string name="txt_btn_residuo"><![CDATA[%]]></string>
+    <string name="txt_btn_raiz"><![CDATA[√]]></string>
+    <string name="txt_btn_potencia"><![CDATA[×²]]></string>
+    <string name="txt_btn_ln"><![CDATA[1/x]]></string>
 
     <string name="txt_btn_borrar_t">CE</string>
-    <string name="txt_btn_borrar">Borrar</string>
-    <string name="txt_btn_div">/</string>
+    <string name="txt_btn_borrar"><![CDATA[<=]]></string>
+    <string name="txt_btn_div"><![CDATA[÷]]></string>
 
     <string name="txt_btn_7">7</string>
     <string name="txt_btn_8">8</string>
     <string name="txt_btn_9">9</string>
-    <string name="txt_btn_mul">x</string>
+    <string name="txt_btn_mul"><![CDATA[×]]></string>
 
     <string name="txt_btn_4">4</string>
     <string name="txt_btn_5">5</string>
